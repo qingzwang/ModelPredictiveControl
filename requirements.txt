@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+cvxpy
+cvxopt
+plotly
+tqdm
