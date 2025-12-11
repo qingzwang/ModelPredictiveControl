@@ -4,3 +4,4 @@ cvxpy
 cvxopt
 plotly
 tqdm
+gurobipy
